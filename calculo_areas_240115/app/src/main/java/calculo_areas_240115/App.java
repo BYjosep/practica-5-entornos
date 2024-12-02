@@ -10,7 +10,8 @@ public class App {
         int option;
         double base, height, side;
         do {
-            System.out.println("Calculadora de Área - Seleccione una opción:");
+            System.out.println("Calculadora de Área by Josep Vicent Mestre");
+            System.out.println("Seleccione una opción:");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
             System.out.println("3. Triángulo");
